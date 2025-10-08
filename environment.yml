@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - ipykernel=6.29 #needed?
+  - jupyterlab  # needed for binder jupyter interface
   - _libgcc_mutex=0.1
   - _openmp_mutex=4.5
   - alembic=1.13
